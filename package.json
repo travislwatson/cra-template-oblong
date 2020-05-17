@@ -8,6 +8,7 @@
     "oblong"
   ],
   "description": "Create React App template for Oblong.",
+  "main": "template.json",
   "repository": {
     "type": "git",
     "url": "https://github.com/traviswatsonws/cra-template-oblong.git"

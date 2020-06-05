@@ -1,4 +1,4 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app) using the Javascript template for [Oblong](https://github.com/traviswatsonws/oblong)
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app) using the Javascript template for [Oblong](https://github.com/traviswatsonws/oblong).
 
 ## Available Scripts
 
